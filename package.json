@@ -11,6 +11,9 @@
     "axios": "latest",
     "express": "^4.18.2"
   },
+  "dependencies": {
+    "build script": "latest",
+  },
   "engines": {
     "node": ">=14"
   }
